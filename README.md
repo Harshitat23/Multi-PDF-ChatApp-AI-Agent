@@ -18,15 +18,15 @@ This project presents an AI-powered document question-answering system that leve
 
 # 🧠 Key Features
 
-📄** Multi-PDF Support** — Upload multiple documents at once
+📄Multi-PDF Support — Upload multiple documents at once
 
-👁️** Visual Understanding** — Uses Vision Transformer + OCR (Tesseract/Pytesseract) for scanned document comprehension
+👁️ Visual Understanding — Uses Vision Transformer + OCR (Tesseract/Pytesseract) for scanned document comprehension
 
-🔍** Retrieval Pipeline** — Extracts embeddings from OCR output, stores in FAISS
+🔍 Retrieval Pipeline — Extracts embeddings from OCR output, stores in FAISS
 
-🧾 **LLM-Powered Answering **— Uses a Large Language Model (e.g., OpenAI GPT, LLaMA) for final natural language answers
+🧾 LLM-Powered Answering — Uses a Large Language Model (e.g., OpenAI GPT, LLaMA) for final natural language answers
 
-⚡ **RAG Framework **— Combines retrieval with generative model output for accurate results
+⚡ RAG Framework — Combines retrieval with generative model output for accurate results
 
 # 🛠️ Tech Stack
 
